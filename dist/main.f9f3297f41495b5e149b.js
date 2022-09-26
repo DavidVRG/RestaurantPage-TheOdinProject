@@ -1,0 +1,1 @@
+(()=>{"use strict";(()=>{let e=document.querySelector(".toggle"),t=document.querySelector(".dropdown");e.addEventListener("click",(()=>{t.classList.toggle("toggleCSS")}))})()})();
